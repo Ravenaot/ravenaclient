@@ -16,7 +16,7 @@
 			"name": "conf"
 		}
 	],
-	"clientFolder": "Tibia",
+	"clientFolder": "Ravena",
 	"newClientUrl" : "https://github.com/Ravenaot/ravenaclient/releases/download/13.32.14520/Ravena.zip",
 	"clientExecutable": "client.exe"
 }
