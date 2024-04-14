@@ -11,10 +11,7 @@
 		},
 		{
 			"name": "bin"
-		},
-		{
-			"name": "conf"
-		},
+		}
 	],
 	"clientFolder": "",
 	"newClientUrl" : "https://github.com/Ravenaot/ravenaclient/releases/download/13.32.14520/Client.zip",
