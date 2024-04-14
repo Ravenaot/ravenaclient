@@ -16,7 +16,7 @@
 			"name": "conf"
 		}
 	],
-	"clientFolder": "False",
+	"clientFolder": False,
 	"newClientUrl" : "https://github.com/Ravenaot/ravenaclient/releases/download/13.32.14520/Client.zip",
 	"clientExecutable": "Ravena.exe"
 }
