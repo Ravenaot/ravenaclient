@@ -4,13 +4,7 @@
 	"replaceFolders": true,
 	"replaceFolderName": [
 		{
-			"name": "assets"
-		},
-		{
-			"name": "storeimages"
-		},
-		{
-			"name": "bin"
+			"name": "test"
 		}
 	],
 	"clientFolder": "",
