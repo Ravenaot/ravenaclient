@@ -1,5 +1,5 @@
 {
-	"clientVersion": "13.40.0",
+	"clientVersion": "13.40.1",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -15,5 +15,5 @@
 	],
 	"clientFolder": "",
 	"newClientUrl" : "https://github.com/Ravenaot/ravenaclient/releases/download/13.32.14520/Client.zip",
-	"clientExecutable": "Ravena.exe"
+	"clientExecutable": "client.exe"
 }
