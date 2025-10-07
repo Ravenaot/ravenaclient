@@ -1,5 +1,5 @@
 {
-	"clientVersion": "cliente-0.8",
+	"clientVersion": "cliente-0.9",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -10,10 +10,10 @@
 			"name": "storeimages"
 		},
 		{
-			"name": "sounds"
+			"name": "bin"
 		},
 		{
-			"name": "screenshots"
+			"name": "sounds"
 		}
 	],
 	"clientFolder": "",
