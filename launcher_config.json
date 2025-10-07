@@ -11,6 +11,9 @@
 		},
 		{
 			"name": "bin"
+		},
+		{
+			"name": "screenshots"
 		}
 	],
 	"clientFolder": "",
