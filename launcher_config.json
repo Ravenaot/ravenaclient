@@ -1,5 +1,5 @@
 {
-	"clientVersion": "cliente-0.3",
+	"clientVersion": "15.11.001",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -7,13 +7,17 @@
 			"name": "assets"
 		},
 		{
-			"name": "storeimages"
+			"name": "bin"
 		},
 		{
-			"name": "bin"
+			"name": "minimap"
+		},
+		{
+			"name": "sounds"
 		}
 	],
 	"clientFolder": "",
 	"newClientUrl": "https://github.com/Ravenaot/ravenaclient/releases/download/1.0.0/Client.zip",
+	"newLauncherUrl": "https://github.com/Ravenaot/ravenaclient/releases/download/1.0.0/Launcher.zip",
 	"clientExecutable": "client.exe"
 }
